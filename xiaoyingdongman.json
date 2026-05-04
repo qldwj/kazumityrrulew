@@ -1,0 +1,18 @@
+{
+    "deprecated": false,
+    "api": "1",
+    "type": "anime",
+    "name": "小樱动漫",
+    "version": "1.0",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://www.xy动漫.com/",
+    "searchURL": "https://www.xy动漫.com/search?wd=@keyword",
+    "searchList": "//div[@class='search-module-item']",
+    "searchName": "//h3/a",
+    "searchResult": "//h3/a",
+    "chapterRoads": "//div[@class='play-scroll-box']",
+    "chapterResult": "//a"
+}

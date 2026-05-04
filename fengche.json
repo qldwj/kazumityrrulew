@@ -1,0 +1,18 @@
+{
+    "deprecated": false,
+    "api": "1",
+    "type": "anime",
+    "name": "风车动漫",
+    "version": "1.2",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://www.fengchedm.com/",
+    "searchURL": "https://www.fengchedm.com/search.asp?searchword=@keyword",
+    "searchList": "//div[@class='list-item']",
+    "searchName": "//a/@title",
+    "searchResult": "//a",
+    "chapterRoads": "//div[@class='vod-play']",
+    "chapterResult": "//a"
+}

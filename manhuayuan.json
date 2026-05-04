@@ -1,0 +1,18 @@
+{
+    "deprecated": false,
+    "api": "1",
+    "type": "anime",
+    "name": "漫画园",
+    "version": "1.0",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://www.mhyuan.com/",
+    "searchURL": "https://www.mhyuan.com/search.html?wd=@keyword",
+    "searchList": "//div[@class='module-item']",
+    "searchName": "//h4/a",
+    "searchResult": "//h4/a",
+    "chapterRoads": "//div[@class='module-blocklist']",
+    "chapterResult": "//a"
+}

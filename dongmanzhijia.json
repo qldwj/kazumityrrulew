@@ -1,0 +1,18 @@
+{
+    "deprecated": false,
+    "api": "1",
+    "type": "anime",
+    "name": "动漫之家",
+    "version": "1.1",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://www.dmzj.com/",
+    "searchURL": "https://www.dmzj.com/search?q=@keyword",
+    "searchList": "//div[@class='search-result-item']",
+    "searchName": "//h3/a",
+    "searchResult": "//h3/a",
+    "chapterRoads": "//div[@class='chapter-list']",
+    "chapterResult": "//a"
+}

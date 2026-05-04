@@ -1,0 +1,18 @@
+{
+    "deprecated": false,
+    "api": "1",
+    "type": "anime",
+    "name": "酷我动漫",
+    "version": "1.3",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://www.kuwodm.com/",
+    "searchURL": "https://www.kuwodm.com/search.html?wd=@keyword",
+    "searchList": "//div[@class='list-card']",
+    "searchName": "//a/@title",
+    "searchResult": "//a",
+    "chapterRoads": "//div[@class='episode-wrap']",
+    "chapterResult": "//a"
+}

@@ -1,0 +1,18 @@
+{
+    "deprecated": false,
+    "api": "1",
+    "type": "anime",
+    "name": "字幕园",
+    "version": "1.2",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://www.zimuyuan.net/",
+    "searchURL": "https://www.zimuyuan.net/search?wd=@keyword",
+    "searchList": "//div[@class='search-item']",
+    "searchName": "//div[@class='item-title']/a",
+    "searchResult": "//div[@class='item-title']/a",
+    "chapterRoads": "//div[@class='play-list-box']",
+    "chapterResult": "//a"
+}
