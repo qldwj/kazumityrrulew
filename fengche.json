@@ -2,17 +2,18 @@
     "deprecated": false,
     "api": "1",
     "type": "anime",
-    "name": "风车动漫",
-    "version": "1.2",
+    "name": "风车动漫fcaabb",
+    "version": "1.3",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
     "userAgent": "",
-    "baseURL": "https://www.fengchedm.com/",
-    "searchURL": "https://www.fengchedm.com/search.asp?searchword=@keyword",
+    "baseURL": "http://www.fcaabb.com/",
+    "searchURL": "http://www.fcaabb.com/common/search.aspx?hso=hso&keyww=@keyword",
     "searchList": "//div[@class='list-item']",
     "searchName": "//a/@title",
     "searchResult": "//a",
     "chapterRoads": "//div[@class='vod-play']",
     "chapterResult": "//a"
 }
+
